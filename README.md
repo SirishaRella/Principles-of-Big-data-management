@@ -5,34 +5,34 @@
  
 # Analytical Queries on twitter data that we collected.
 
-Query-1:
+### Query-1:
 we found the number of users tweeting about Python, JavaScript, HTML and CSS.
 
-Query-2:
+### Query-2:
 Statistics of Microsoft, IBM and Cerner associates/employees who are actively tweeting on AI Technology.
 
-Query-3:
+### Query-3:
 Count of active high school/college students’ achievements/participation in technology. 
 
-Query-4:
+### Query-4:
 Count of people who are actively tweeting about Microsoft, Cerner and IBM
 
-Query-5:
+### Query-5:
 Tweets about how AI is impacting in health, home and business AI
 
-Query-6:
+### Query-6:
 students who are actively participating/tweeting about python programming based on college name.
 
-Query-7:
+### Query-7:
 Tweets that talk about different kind of films that are using vfx effects.
 
-Query-8:
+### Query-8:
 Number of people tweeting about IOS, Android and Windows operating systems
 
-Query-9:
+### Query-9:
 Number of people tweeting about WhatsApp, Instagram and snapchat
 
-Query-10:
+### Query-10:
 Number of people tweeting about SQL and NoSQL
 
 
